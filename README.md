@@ -24,5 +24,3 @@ Where `exp` stays for:
   - Without physical loss function: `dpgn0`
 Moreover, experiments can have extra arguments as options (run `python main.py <exp> --help` to see all of them).
 
-## License
-All source code is made available under a BSD 3-clause license. You can freely use and modify the code, without warranty, so long as you provide attribution to the authors.
